@@ -1,5 +1,7 @@
 Researcher:
+
 Overview of research:
+
 Target: [ Client/Internal/Community]
 
 | Resource | Expected cost |
@@ -7,7 +9,11 @@ Target: [ Client/Internal/Community]
 |          |               |
 
 Overall goal: 
+
 Plan: I/We will...
+
 Internal peer review:
+
 Signed off by:
+
 Date: ../../....
